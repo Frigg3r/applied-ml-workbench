@@ -8,7 +8,7 @@ The notebook includes Gaussian class-density contours, decision boundaries, and 
 
 **Results:** 98.10% training accuracy (103/105) and 93.33% test accuracy (42/45) on a stratified 70/30 split (`random_state=42`). These results reflect a single, small test split and do not guarantee generalization performance.
 
-## ___________________________________________________________________
+## Русский
 
 Собственная реализация байесовского классификатора с гауссовскими распределениями на датасете **Iris («Ирисы»)** с использованием двух признаков: длины и ширины лепестка.
 
