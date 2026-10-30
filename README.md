@@ -17,3 +17,4 @@ The repository focuses on understanding machine learning algorithms, exploring d
 | Experiment / Работа | Description / Описание |
 |---|---|
 | [Gaussian Bayesian Classification](experiments/gaussian-bayesian-classification/) | Custom Gaussian classifier on the Iris dataset with decision boundaries and classification error analysis. / Собственная реализация гауссовского байесовского классификатора на датасете Iris с визуализацией границ решений и анализом ошибок классификации. |
+| [ETL Data Quality Detection](experiments/etl-data-quality-detection/) | Detection of synthetic ETL data quality issues using machine learning and historical metrics. / Обнаружение синтетических нарушений качества данных ETL с помощью машинного обучения и исторических показателей. |
